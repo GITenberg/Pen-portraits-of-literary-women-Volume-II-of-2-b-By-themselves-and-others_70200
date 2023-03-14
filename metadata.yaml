@@ -1,5 +1,8 @@
 _repo: Pen-portraits-of-literary-women-Volume-II-of-2-b-By-themselves-and-others_70200
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70200-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36096
     wikipedia: https://en.wikipedia.org/wiki/Jeannette_Leonard_Gilder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70200#Pen-portraits-of-literary-women-Volume-II-of-2-b-By-themselves-and-others
 gutenberg_issued: '2023-03-04'
 identifiers:
   gutenberg: '70200'
